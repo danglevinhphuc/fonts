@@ -1,0 +1,10 @@
+# New fonts
+
+
+# Upgrades
+
+
+# Catalog
+ofl/notosansmono
+ofl/barlowsemicondensed
+ofl/sreekrushnadevaraya
